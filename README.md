@@ -1,4 +1,4 @@
-**Python**
+# Python_Fundamentals
 
 Learning python and practice
 
